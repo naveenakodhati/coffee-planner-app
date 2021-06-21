@@ -23,6 +23,9 @@
   outline: none;
   cursor: pointer;
 }
+.list-styling {
+  list-style-type: none;
+}
 .row-styling {
   display: flex;
   justify-content: space-between;

@@ -21,7 +21,7 @@ class QuestionOption extends Component {
       ? 'styling-questions-2'
       : 'styling-questions-1'
     return (
-      <li>
+      <li className="list-styling">
         <button
           type="button"
           className={backgroundDesign}
