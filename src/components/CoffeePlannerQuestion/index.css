@@ -1,0 +1,13 @@
+/* Write your code here. */
+.coffee-title {
+  font-size: 24px;
+  font-weight: 700;
+}
+.list-style {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.row-styling-container {
+  display: flex;
+}
